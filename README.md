@@ -4,3 +4,6 @@ It's essentially a GUI based twitter bot which can,
 2. Retweet 
 3. Reply 
 4. Like
+
+# Prerequisites
+
