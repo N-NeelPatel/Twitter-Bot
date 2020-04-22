@@ -7,10 +7,10 @@ except ImportError:
     # for Python3
     from tkinter import * 
 
-consumer_key = '7HPZGB1gyLBKmoJQRT5rmXFvo' 
-consumer_secret = 'WCGITH5HDkDhYBIxoes3uGMoFWv086ju6KgP1alCR9AH8GM5kV' 
-access_token = '1240703950589853698-Zo4IF457O4R17lx4Umxla5SIInnm0n'
-access_token_secret = 'pgfPAuHEVk0OkiFRrkoHnIxW7icz1yeJBg0kPCrkOWRe1'
+consumer_key = 'XXXXX' 
+consumer_secret = 'XXXXX' 
+access_token = 'XXXXX'
+access_token_secret = 'XXXXX'
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
