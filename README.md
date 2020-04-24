@@ -1,5 +1,5 @@
 # Twitter-Bot
-Follow my Bot at [Twitter_BOT](https://twitter.com/spacex652002)
+Follow my Bot at [Twitter_BOT](https://twitter.com/spacex652002 "Twitter Account of BOT")
 # Introduction
 This bot is created in python, using tweepy.
 The GUI is created using Tkinter.
