@@ -9,3 +9,4 @@ First, You need to intall tweepy into your system. You can do that by pip instal
 # How to Run
 1. Follow Installation step.
 2. Replace XXXXX with your keys that you got from https://developer.twitter.com/ and run the main file with python main.py
+# Example of GUI
