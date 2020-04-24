@@ -2,6 +2,7 @@
 Follow my Bot at [Twitter_BOT](https://twitter.com/spacex652002)
 # Introduction
 This bot is created in python, using tweepy.
+The GUI is created using Tkinter.
 # Prerequisites
 Go to https://developer.twitter.com/ and get your consumer key, consumer secret, access token, and access token secret.
 # Installation 
@@ -10,3 +11,4 @@ First, You need to intall tweepy into your system. You can do that by pip instal
 1. Follow Installation step.
 2. Replace XXXXX with your keys that you got from https://developer.twitter.com/ and run the main file with python main.py
 # Example of GUI
+(https://github.com/N-NeelPatel/Twitter-Bot/blob/master/GUi.PNG)
